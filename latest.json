@@ -1,10 +1,10 @@
 {
-  "version": "0.0.2",
-  "notes": "0.0.2 publish",
-  "pub_date": "2024-10-09T13:42:28Z",
+  "version": "0.0.4",
+  "notes": "0.0.4 publish",
+  "pub_date": "2024-10-17T13:42:28Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYTY5YXdSUWdBN3JzRkNVZU1nRFVqVm1CaVlMSjlEYTZmWXh4MlVjTGRabzliVktXWU1STW42ZTJ6dzQ2WGVSOHhOZTlTbEdHcXNKakhQcGNiYmgzZXRNODJjc3lGNmdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MTI0Mzc2CWZpbGU6Q29tZnlVSSBNYXN0ZXJfMC4wLjRfeDY0LXNldHVwLmV4ZQpPTWtUK3lLblVLVVVteDdSbDdlSGlXS1BicXBadEtkb2ZYSTd3b2VQVUtza05nbkUwTldSOW1qSkpNTmJhdzR5S1J1a2NWb0FtMTBlZGxDME1QcUxEUT09Cg==",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSYTY5YXdSUWdBN21UVXFHMXVUN2JzZXZXcWxIVkhMQmdUdW9TTHJsRFRwckRhZ3JrUkVCZ1BjcGZMTTNwbzFBbER0d2JlVi9mOVV3akd0eW0wN2d5MHJudWpPNndEMXdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzI5MTQwMzEzCWZpbGU6Q29tZnlVSSBNYXN0ZXJfMC4wLjRfeDY0LXNldHVwLmV4ZQoyaG5KZ2tQTzlRWm8yazdudHpTVGJjaTZ4bXliYksxWjNLWGlzZ1V1Q2UwQkVRVllGRkYzRjRzZDBEbnRMNzRqSjlTb2FBUTlITE11QWxVdkxTZGRDZz09Cg==",
       "url": "https://github.com/Joderxx/ComyUI-Master/releases/download/latest/ComfyUI.Master_latest_x64-setup.exe"
     }
   }
